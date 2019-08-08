@@ -1,5 +1,4 @@
 # BASH
-Various bash script files.
 
 | FILE | DESCRIPTION |
 |----------------|-------------|
